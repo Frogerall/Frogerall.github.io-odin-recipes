@@ -21,12 +21,24 @@ body {
   display: flex;
   flex-flow: column;
   align-items: center;
-  justify-content: center;
   border-radius: 25px;
   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.452);
+  padding: 3em;
+  gap: 1em;
 }
 .container h1 {
   font-size: 3em;
   color: rgba(24, 23, 23, 0.678);
-  text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.521);
+  text-shadow: 1px 1px 1px rgba(122, 110, 110, 0.521);
+}
+.col {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.col h2 {
+  color: rgba(24, 23, 23, 0.678);
+  font-size: 19px;
+  margin-bottom: 1em;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.281);
 }
