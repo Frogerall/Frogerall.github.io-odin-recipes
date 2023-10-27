@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+}
+body {
+  min-height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.1)),
+    url(kitchen-2.jpg);
+  position: relative;
+  background-position: center;
+  background-size: cover;
+}
+.container {
+  background: rgba(210, 202, 199, 255);
+  width: 80%;
+  margin: 25% auto;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 25px;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.452);
+}
+.container h1 {
+  font-size: 3em;
+  color: rgba(24, 23, 23, 0.678);
+  text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.521);
+}
