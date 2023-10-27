@@ -9,7 +9,7 @@ body {
 }
 .container {
   width: 80%;
-  margin: 0 auto;
+  margin: 1% auto;
   display: flex;
   background: rgba(210, 202, 199, 255);
   padding: 3em;
