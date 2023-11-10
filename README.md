@@ -1,17 +1,45 @@
-# odin-recipes
+<a name="readme-top"></a>
 
-Making a Recipe Website using HTML & CSS.
+# Project Title
 
-This is an activity assigned by the The Odin Project.
+<h1 align="center">Odin Food Recipe's</h1>
 
-Current it only has hard coded data or information for 3 Local Recipe!
+<!-- SITE PREVIEW -->
 
-1. Adobong Manok.
-2. Sinigang na Baboy.
-3. Fried Chicken (Not really local though!)
+## Site Preview
 
-TheOdinProject visit here for more info on the course.
+![Site Screenshot](recipe-1.jpeg)
 
-Here's the Link: https://www.theodinproject.com/
+Check out the live demo [here](https://frogerall.github.io/odin-recipe/) 🌐
 
-Cheers! 👌
+## Description
+
+This is a simple static recipe website created as an exercise from The Odin Project. It features a handful of easy-to-follow local and foreign recipes, perfect for anyone looking to experiment in the kitchen. There's no agenda here, just a casual space to explore and enjoy the art of cooking.
+
+## Tools and Technology Used
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 🌐
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 🎨
+- [Git](https://git-scm.com/doc) 🛠️ (Version Control)
+- [Google](https://www.google.com) 🔍 (for searching and referencing recipes)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Authors
+
+**Author:**
+
+You can reach out to me for suggestions, comments, or just to chat:
+
+- Adrian Salitico
+  - [GitHub](https://github.com/frogerall)
+  - [LinkedIn](https://linkedin.com/in/nairda4)
+  - Email: saliticoadrian@gmail.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+
+- [The Odin Project](https://www.theodinproject.com)
