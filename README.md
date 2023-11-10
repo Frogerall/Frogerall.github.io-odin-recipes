@@ -29,12 +29,13 @@ This is a simple static recipe website created as an exercise from The Odin Proj
 
 **Author:**
 
-You can reach out to me for suggestions, comments, or just to chat:
-
 - Adrian Salitico
+
   - [GitHub](https://github.com/frogerall)
   - [LinkedIn](https://linkedin.com/in/nairda4)
   - Email: saliticoadrian@gmail.com
+
+  You can reach out to me for suggestions, comments, or just to chat!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
