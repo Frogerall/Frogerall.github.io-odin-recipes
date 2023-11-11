@@ -25,6 +25,24 @@ This is a simple static recipe website created as an exercise from The Odin Proj
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Current Features
+
+- **Local Recipe Selection:** Users can easily choose up to 3 local recipes to explore and try out.
+
+- **Seamless Navigation:** A "Go Back Home" button is conveniently available on every page, ensuring users can effortlessly return to the home page at any point in their journey.
+
+## Future Plans
+
+- **Elevate User Experience:** Implementing a comprehensive header and footer system to provide users with enriched contextual information, enhancing their overall interaction with the site.
+
+- **Culinary Diversity Initiative:** Introduce an expansive array of recipes, ensuring a more inclusive and varied culinary experience for users to explore and enjoy.
+
+- **Community Interaction Hub:** Develop a dedicated "Contact Us / Suggestions" page to actively involve users in shaping the project. This platform will empower users to suggest recipes, share feedback, and engage with the growing community.
+
+## Contributions
+
+- Interested in contributing? Your contributions are more than welcome! Simply fork the repository and submit a pull request. Let's collaborate to make this food recipe site even more helpful and user-friendly!
+
 ## Authors
 
 **Author:**
